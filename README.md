@@ -208,19 +208,3 @@ GROUP BY shift;
 3. Ejecuta las consultas de análisis para obtener insights.
 4. Modifica y extiende las consultas para responder preguntas adicionales de negocio.
 
----
-
-## Autor
-
-**Zero Analyst** — Proyectos y tutoriales de análisis de datos con SQL.
-
-Para más contenido y actualizaciones:
-
-- YouTube: [https://www.youtube.com/@zero_analyst](https://www.youtube.com/@zero_analyst)  
-- Instagram: [https://www.instagram.com/zero_analyst/](https://www.instagram.com/zero_analyst/)  
-- LinkedIn: [https://www.linkedin.com/in/najirr](https://www.linkedin.com/in/najirr)  
-- Discord: [https://discord.gg/36h5f2Z5PK](https://discord.gg/36h5f2Z5PK)
-
----
-
-Gracias por revisar este proyecto. ¡Estoy disponible para dudas o colaboraciones!
